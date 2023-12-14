@@ -1,0 +1,20 @@
+# Dépendances
+node_modules/
+
+# Fichiers de configuration de l'environnement
+.env
+
+# Fichiers de log
+*.log
+npm-debug.log*
+
+# Répertoires de l'OS
+.DS_Store
+
+# Répertoires de l'IDE
+.idea/
+.vscode/
+
+# Autres fichiers et répertoires
+tmp/
+temp/
